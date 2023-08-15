@@ -40,11 +40,11 @@ It also generates and displays an alert message to provide the user with real-ti
 
 == Frequently Asked Questions ==
 
-Please visit the [FAQs page](https://localise.biz/wordpress/plugin/faqs) on our website for the most common issues.
+Please visit the [FAQs page] on our website for the most common issues.
 
 = How do I use Loco Translate? = 
 
-Try our [Guides and Tutorials](https://localise.biz/wordpress/plugin#guides).
+Try our [Guides and Tutorials].
 
 = How do I get more help? =
 
