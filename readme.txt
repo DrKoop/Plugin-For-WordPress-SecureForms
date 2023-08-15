@@ -1,4 +1,7 @@
-﻿=== Secure Forms ===
+
+
+
+=== Secure Forms ===
 Contributors: alejandrorodriguez
 Tags: Web Form Security, Data Protection, Code Injection Prevention,Form Validation,Cybersecurity,Form Protection,Data Security,Attack Prevention,Forms Firewall ,Online Security
 Requires at least: 5.2
