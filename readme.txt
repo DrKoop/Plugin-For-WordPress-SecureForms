@@ -48,7 +48,7 @@ Try our [Guides and Tutorials].
 
 = How do I get more help? =
 
-If you have a problem using Loco Translate, please contact me(https://drkoopdev.com/contactame/)
+If you have a problem using, please contact me(https://drkoopdev.com/contactame/)
 
 = Is my data protected? =
 
